@@ -1,5 +1,3 @@
-# This file uses centimeters as units for non-parametric coordinates.
-
 mtllib chapel_obj.mtl
 g default
 v -578.701904 322.393311 364.915588
